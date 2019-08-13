@@ -9,5 +9,5 @@
       "headers": { "Location": "https://veldurafbil.is/$1" }
     }
   ],
-  "regions": ["lhr"]
+  "regions": ["lhr"] 
 }
